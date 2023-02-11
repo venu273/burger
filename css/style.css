@@ -1,0 +1,442 @@
+ .code {
+
+     background-color: #ffd27a;
+     height: 730px;
+     /* position: sticky; */
+
+ }
+
+ .demo img {
+     width: 100%;
+     padding: 25px 0px;
+     color: #52311e;
+ }
+
+ .house h3 {
+     padding: 23px 0px;
+     color: #52311e;
+ }
+ /* .north img{
+    margin-top: 24px;
+    float: left;
+    margin-left: 185px;
+ } */
+
+ .north p {
+     float: right;
+     padding: 23px 20px;
+ }
+
+
+
+ ul {
+     list-style-type: none;
+     padding: 0px 17px ! important;
+ }
+
+ li {
+     float: left;
+ }
+
+ li a {
+     display: block;
+     color: #52311e;
+     text-align: center;
+     padding: 0px 4px;
+     text-decoration: none;
+     letter-spacing: 1px;
+ }
+
+ .menu-right {
+     float: right;
+ }
+
+ .west {
+     margin-top: 150px;
+     border: 3px dashed #52311e;
+     padding: 2px 8px;
+     color: #5c3b3a;
+     font-size: 10px;
+     padding-top: 14px;
+     margin-left: 8px;
+     width: 291px;
+ }
+
+ .east {
+     font-weight: 700;
+     font-size: 80px;
+     color: #52311e;
+     margin-top: -9px;
+     text-shadow: 2.5px 3.5px 1px white;
+     letter-spacing: 2px;
+     font-family: rockwell;
+
+
+ }
+
+ .south {
+     font-size: 50px;
+     /* margin-left: 8px; */
+     color: #52311e;
+     margin-top: -19px;
+     text-shadow: 2.5px 3.5px 1px white;
+     letter-spacing: 2px;
+     font-family: rockwell;
+ }
+
+ .test img {
+     position: relative;
+     height: 580px;
+     float: left;
+     margin-top: 5px;
+     width: 530px;
+     /* margin-right: 50px; */
+ }
+
+ .have img {
+     margin-top: 10px;
+     padding: 15px;
+     width: 100%;
+     /* height: 355px; */
+
+ }
+
+ .has img {
+     margin-top: 10px;
+     width: 100%;
+     height: 163px;
+     padding: 15px;
+
+ }
+
+ .had img {
+     /* margin-top:25px; */
+     width: 100%;
+     padding: 15px;
+     height: 163px;
+
+ }
+
+ .radius {
+
+     text-align: center;
+     padding: 13px;
+ }
+
+ span {
+     padding: 2px 5px;
+     border-radius: 10px;
+     text-align: center;
+     border: #ffc045;
+     padding: 10px;
+     background-color: #ffc045;
+
+
+
+ }
+
+ .blue h1 {
+     text-align: center;
+     font-size: xx-large;
+     margin-top: 35px;
+     color: #3d2514;
+
+ }
+
+ .blue p {
+     font-size: small;
+     margin-top: 35px;
+     color: #3d2514;
+     text-align: center;
+ }
+
+ /*.green img{
+    width: 100%;
+    
+    color: #3d2514;
+
+}
+.yellow img{
+    width: 100%;
+    color: #3d2514;
+    
+}
+.orange img{
+    width: 100%;
+    
+    color: #3d2514;
+    
+}*/
+ .border-view {
+     border: 1px solid #9f9696;
+     border-radius: 10px;
+     color: #3d2514;
+     text-align: center;
+     margin-top: 15px;
+ }
+
+ .img-view {
+     width: 100%;
+
+     padding: 10px;
+
+     height: 300px ! important;
+ }
+ .long button {
+    background-color: red;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    margin-bottom: 8px;
+
+}
+.year h5 {
+    margin-top: 25px;
+    font-size: medium;
+    font-family: rockwell;
+    color: #52311e;
+}
+
+.year h3 {
+    margin-top: -4px;
+    font-size: 35px;
+    font-family: rockwell;
+    color: #52311e;
+    letter-spacing: 0.5px;
+}
+
+.year p {
+ color: #52311e;
+ font-size: large;
+ margin-top: 12px;
+}
+
+
+ /* .day h4{
+    text-align:center ;
+    margin-top: 25px;
+    font-size: 15px;
+    color: #3d2514;
+}
+.day p{
+    text-align:center ;
+    margin-top: 10px;
+    color: #3d2514;
+}
+.month h4{
+    text-align:center ;
+    margin-top: 35px;
+    margin-left:0px ;
+    font-size:15px;
+    color: #3d2514;
+}
+.month p{
+    text-align:center ;
+    margin-top: 10px;
+    /* margin-left: 13px; */
+ /* color: #3d2514; */
+
+ }
+
+ /* .year h4{
+    text-align:center ;
+    margin-top: 25px;
+    margin-left: 0px;
+    font-size: 15px;
+    color: #3d2514;
+
+}
+.year p{
+    text-align:center ;
+    margin-top: 10px;
+    /* margin-left: 13px; */
+ /* color: #3d2514; */
+ .day {
+     font-size: medium;
+ }
+
+ .month img {
+     width: 100%;
+     margin-top: 15px;
+     height: 350px;
+
+ }
+
+  
+ 
+
+ .burger-form {
+     height: 100vh;
+
+
+ }
+
+ .burger-form img {
+     width: 150px;
+     margin-top: 30px;
+
+ }
+
+ .note h3 {
+     margin-top: -350px;
+     color: #52311e;
+     text-align: center;
+ }
+
+ .note h1 {
+     margin-top: 10px;
+     font-size: 40px;
+     font-family: rockwell;
+     text-align: center;
+     color: #52311e;
+
+ }
+
+ .star {
+     padding: 10px 120px;
+
+ }
+
+ input {
+     width: 80%;
+     height: 30px;
+     border: 1px solid black;
+     border-radius: 5px;
+     padding: 10px 4px;
+
+ }
+
+ 
+
+ .qwe {
+     padding: 20px 16px;
+
+
+ }
+
+ .rty {
+     padding: 20px 16px;
+ }
+
+ .uio {
+     padding: 20px 16px;
+ }
+ .free button {
+    background-color: red;
+    color: white;
+    border: 1px solid red;
+    padding: 4px 15px;
+    width: 80%;
+    border-radius: 5px;
+
+}
+
+ .zxc img {
+     float: right;
+     margin-top: -140px;
+     width: 140px;
+ }
+
+ .footer {
+     /* height:400px;  */
+     margin-top: 85px;
+     /* background-color: #3E2A21; */
+     background-image: url("../images/venu-fire-1.png");
+ }
+
+ .lll img {
+     padding: 30px 0px;
+     width: 70%;
+ }
+
+ .qq {
+     padding: 41px 0px;
+     color: white;
+ }
+
+ .dolor {
+     color: white;
+ }
+
+ .mail {
+     color: white;
+     font-size: 12px;
+     padding: 3px 1px;
+     
+ }
+ .info{
+    color: white;
+    font-size: 12px;
+ }
+ .COMPANYNAME{
+      color: white;
+      padding: 73px 0px;
+ }
+ .icons{
+    color: white;
+    padding: 75px 5px;
+ }
+.bg-color 
+{
+    background-color:#1A2334;
+    margin-top: 8px;
+
+}
+.about h6{
+    color:#717377;
+    font-size: 11px;
+}
+.about p{
+   color: white;
+   font-size: 10px;
+
+}
+.help h6{
+    color:#717377;
+    font-size: 11px;
+}
+.help p{
+   color: white;
+   font-size: 10px;
+}
+.policy h6{
+    color: #717377;
+    font-size: 11px;
+}
+.policy p{
+    color: #fff;
+    font-size: 10px;
+}
+.social h6{
+    color: #717377;
+    font-size: 11px;
+
+}
+.social p{
+    color: #fff;
+    font-size: 10px;
+}
+.mailu h6{
+    color:#717377;
+    font-size: 11px;
+
+}
+.mailu p{
+    color: #fff;
+    font-size: 10px;
+}
+.registered h6{
+   color:#717377;
+   font-size: 11px;
+}
+.registered p{
+    color: #fff;
+    font-size: 10px;
+}
+.lim{
+       margin-left: -6px;
+}
+.lim::before
+{
+    border-left: 2px solid #717377;
+}
